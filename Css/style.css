@@ -1,0 +1,48 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+body{
+     color: #fff;
+     font-family: sans-serif;
+     background: #000;
+}
+
+.fundo{
+     height: 100%;
+     width: 100%;
+     background: url(https://wallpaperaccess.com/full/1351899.jpg);
+     background-size: cover;
+}
+
+.fundo2{
+     height: 99.9%;
+     width: 100%;
+     background: url(https://lh3.googleusercontent.com/pw/AM-JKLXf-XA9yRis7NvHPVFUukDGbkvSoh7ttlB_eUVCu31Yps5eE9K5xW_PeQ-QH1tDnAhWeGUbt0b_T2PmObI8R6Ly6MQDWhmKJR5eiTZVrd7dS-L_jIBeHbCrmTiEcp4c6GMugu6hG88LOzVMiC0nF9Fy=s720-no);
+     background-size: cover;
+}
+
+.conteudo{
+     height: 99.9%;
+     width: 100%;
+     background: url(https://lh3.googleusercontent.com/pw/AM-JKLXf-XA9yRis7NvHPVFUukDGbkvSoh7ttlB_eUVCu31Yps5eE9K5xW_PeQ-QH1tDnAhWeGUbt0b_T2PmObI8R6Ly6MQDWhmKJR5eiTZVrd7dS-L_jIBeHbCrmTiEcp4c6GMugu6hG88LOzVMiC0nF9Fy=s720-no);
+     background-size: cover;
+     overflow-x:scroll;
+}
+
+.textos{
+     padding: 20px;
+}
+
+.destinatario, .remetente{
+     text-align: left;
+}
+
+.mensagem{
+     font-size: 18px;
+}
+
+.remetente{
+     text-align: right;
+}
